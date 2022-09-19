@@ -1,7 +1,6 @@
 name: custom_route_transitions
 description: A custom route transition package.
 version: 0.0.1
-author: Santiago albisser
 homepage: https://github.com/salbisser105/custom_route_transition
 
 environment:
