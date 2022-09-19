@@ -7,14 +7,14 @@ enum AnimationType { normal, fadeIn }
 
 /// Main class, [context] es el BuildContext de la aplicación en ese momento
 /// [child] es el widget a navegar, [animation] es el tipo de animación
-class CustomRouteTransitions {
+class CustomRouteTransitionSa {
   final BuildContext context;
   final Widget child;
   final AnimationType animation;
   final Duration duration;
   final bool replacement;
 
-  CustomRouteTransitions(
+  CustomRouteTransitionSa(
       {required this.context,
       required this.child,
       this.replacement = false,

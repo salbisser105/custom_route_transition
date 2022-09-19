@@ -1,16 +1,6 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
-
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
-
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
-
 ## Description
-This package is for handling custom route transitions between pages
+This package is for handling custom route transitions between pages.
+
+## Author
+The author of this package is Santiago Albisser, looking forward to make this package open source. That way it can be improved with the help of the community.
 
