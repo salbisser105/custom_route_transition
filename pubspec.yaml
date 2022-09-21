@@ -1,6 +1,6 @@
-name: custom_route_transitions_sa
-description: A custom route transition package.
-version: 0.0.1
+name: custom_route_transition_sa
+description: A custom route transition package. This helps with the transitions between screens with different animations.
+version: 0.0.3
 homepage: https://github.com/salbisser105/custom_route_transition
 
 environment:
